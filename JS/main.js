@@ -1,0 +1,4 @@
+function comprimentar()
+{
+    alert("Olá")    
+}
